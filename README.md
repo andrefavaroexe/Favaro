@@ -4,7 +4,6 @@
 <h3>👨‍💻 Concluí o Bootcamp Catalisa-Lab Viptech</h3>
 
 
-
 <h3 align="left">Contatos</h3>
 <p align="left">
 <a href="https://fb.com/andre vinicius amorim fávaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andre vinicius amorim fávaro" height="30" width="40" /></a>
