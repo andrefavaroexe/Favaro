@@ -1,10 +1,9 @@
 # Olá! me chamo André Vínicius Amorim Fávaro
 
 <h3>⚡ Estudando para ser um desenvolvedor Front-end ⚡</h3>
-<h3>👨‍💻 Concluí o Bootcamp Catalisa-Lab Viptech</h3>
+<h3>👨‍💻 Concluí o Bootcamp Catalisa-Lab Viptech👨‍💻</h3>
 
-
-<h3 align="left">Contatos:</h3>
+<h3 align="left">Contato:</h3>
 <p align="left">
 <a href="https://fb.com/andre vinicius amorim fávaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andre vinicius amorim fávaro" height="30" width="40" /></a>
 <a href="https://instagram.com/andre_vaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andre_vaf" height="30" width="40" /></a>
