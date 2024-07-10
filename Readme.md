@@ -1,6 +1,6 @@
 # Hi im am André Vínicius Amorim Fávaro
 
-<h3>⚡ Estudando para ser um desenvolvedor Front-end ⚡</h3>
+<h3>⚡desenvolvedor Front-end⚡</h3>
 
 
 <h3 align="left">Contato:</h3>
