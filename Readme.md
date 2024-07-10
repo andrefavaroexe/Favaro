@@ -1,4 +1,4 @@
-# Olá! me chamo André Vínicius Amorim Fávaro
+# Hi im am André Vínicius Amorim Fávaro
 
 <h3>⚡ Estudando para ser um desenvolvedor Front-end ⚡</h3>
 
